@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "Ana Silva",
+    "aniversario": "22/07/1995",
+    "departamento": "Comercial",
+    "salario": 3500
+  },
+  {
+    "nome": "Carlos Souza",
+    "aniversario": "22/07/1990",
+    "departamento": "Financeiro",
+    "salario": 4200
+  },
+  {
+    "nome": "Mariana Costa",
+    "aniversario": "10/12/1998",
+    "departamento": "RH",
+    "salario": 3800
+  }
+
+]

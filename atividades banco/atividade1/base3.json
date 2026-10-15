@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Fernanda Lima",
+    "aniversario": "12/04/1994",
+    "departamento": "Comercial",
+    "salario": 3900
+  },
+  {
+    "nome": "Ricardo Mendes",
+    "aniversario": "25/06/1991",
+    "departamento": "Financeiro",
+    "salario": 4700
+  },
+  {
+    "nome": "Beatriz Rocha",
+    "aniversario": "08/10/1999",
+    "departamento": "RH",
+    "salario": 3600
+  }
+
+
+]

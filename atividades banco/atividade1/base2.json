@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "Pedro Oliveira",
+    "aniversario": "05/02/1992",
+    "departamento": "TI",
+    "salario": 5000
+  },
+  {
+    "nome": "Juliana Ferreira",
+    "aniversario": "18/09/1996",
+    "departamento": "Marketing",
+    "salario": 4100
+  },
+  {
+    "nome": "Roberto Almeida",
+    "aniversario": "30/11/1998",
+    "departamento": "Operações",
+    "salario": 4600
+  }
+
+]
